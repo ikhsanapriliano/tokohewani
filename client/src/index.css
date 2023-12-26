@@ -7,3 +7,18 @@
 * {
   font-family: "Roboto", sans-serif;
 }
+
+#category_list .rounded-lg {
+  border-radius: 0px;
+}
+
+#category_list svg {
+}
+
+#category_list .group span {
+  background-color: #304d30;
+}
+
+#category_list .group span:hover {
+  background-color: #163020;
+}
